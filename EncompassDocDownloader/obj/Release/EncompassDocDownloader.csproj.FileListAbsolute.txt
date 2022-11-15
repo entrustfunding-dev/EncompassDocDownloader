@@ -1,0 +1,10 @@
+C:\Users\zmitchell\source\repos\EncompassDocDownloader\EncompassDocDownloader\bin\Release\EncompassDocDownloader.exe.config
+C:\Users\zmitchell\source\repos\EncompassDocDownloader\EncompassDocDownloader\bin\Release\EncompassDocDownloader.exe
+C:\Users\zmitchell\source\repos\EncompassDocDownloader\EncompassDocDownloader\bin\Release\EncompassDocDownloader.pdb
+C:\Users\zmitchell\source\repos\EncompassDocDownloader\EncompassDocDownloader\bin\Release\EllieMae.Encompass.AsmResolver.dll
+C:\Users\zmitchell\source\repos\EncompassDocDownloader\EncompassDocDownloader\bin\Release\EllieMae.Encompass.Runtime.dll
+C:\Users\zmitchell\source\repos\EncompassDocDownloader\EncompassDocDownloader\obj\Release\EncompassDocDownloader.exe.config
+C:\Users\zmitchell\source\repos\EncompassDocDownloader\EncompassDocDownloader\obj\Release\EncompassDocDownloader.csproj.CoreCompileInputs.cache
+C:\Users\zmitchell\source\repos\EncompassDocDownloader\EncompassDocDownloader\obj\Release\EncompassDocDownloader.csproj.CopyComplete
+C:\Users\zmitchell\source\repos\EncompassDocDownloader\EncompassDocDownloader\obj\Release\EncompassDocDownloader.exe
+C:\Users\zmitchell\source\repos\EncompassDocDownloader\EncompassDocDownloader\obj\Release\EncompassDocDownloader.pdb
