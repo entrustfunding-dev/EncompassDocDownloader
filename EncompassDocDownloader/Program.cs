@@ -50,7 +50,7 @@ namespace EncompassDocDownloader
                 return;
             }
 
-            //  Make sure directory path exists and is set up properly
+            //  Make sure base directory path exists and is set up properly
             if (!Directory.Exists(args[1]))
                 Directory.CreateDirectory(args[1]);
 
@@ -76,7 +76,7 @@ namespace EncompassDocDownloader
                 //loan.Export(args[1] + "LoanExport", "", LoanExportFormat.FNMA32);
 
                 //  Concat subfolder path for this loan and create it
-                string subFilePath = args[1] + "\\" + guid;
+                string subFilePath = args[1] + "\\" + loan.LoanNumber + "_" + loan.BorrowerPairs.Current.Borrower.LastName;
                 if (!Directory.Exists(subFilePath))
                     Directory.CreateDirectory(subFilePath);
 
