@@ -8,3 +8,4 @@ C:\Users\zmitchell\source\repos\EncompassDocDownloader\EncompassDocDownloader\ob
 C:\Users\zmitchell\source\repos\EncompassDocDownloader\EncompassDocDownloader\obj\Release\EncompassDocDownloader.csproj.CopyComplete
 C:\Users\zmitchell\source\repos\EncompassDocDownloader\EncompassDocDownloader\obj\Release\EncompassDocDownloader.exe
 C:\Users\zmitchell\source\repos\EncompassDocDownloader\EncompassDocDownloader\obj\Release\EncompassDocDownloader.pdb
+C:\Users\zmitchell\source\repos\EncompassDocDownloader\EncompassDocDownloader\obj\Release\EncompassDocDownloader.csprojAssemblyReference.cache
